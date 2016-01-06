@@ -1,0 +1,23 @@
+{
+  "name": "angular-chosen",
+  "main": "angular-chosen.js",
+  "homepage": "https://github.com/MichaelMNM/angular-chosen",
+  "authors": [
+    "Michael Mandato <mmandato@bardavon.com>"
+  ],
+  "description": "Forked from adityasharat @ github.",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "chosen",
+    "select"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
